@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-uri
 Version:	1.0a
-Release:	1
+Release:	2
 Summary:	TeXLive uri package
 Group:		Publishing
 URL:		http://tug.org/texlive
