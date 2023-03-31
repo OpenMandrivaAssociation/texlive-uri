@@ -1,6 +1,6 @@
 Name:		texlive-uri
 Version:	48602
-Release:	1
+Release:	2
 Summary:	TeXLive uri package
 Group:		Publishing
 URL:		http://tug.org/texlive
